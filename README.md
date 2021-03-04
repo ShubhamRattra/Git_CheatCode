@@ -1,5 +1,3 @@
-# Git_CheatCode
-
 # Steps if you made new repo:-
 1. git init
 2. git add *
