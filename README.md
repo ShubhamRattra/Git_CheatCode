@@ -16,4 +16,4 @@
 
 # Steps to copy a project:-
 1. git init
-2. git clone "link"   (link from the gthub)
+2. git clone "link"   (link from the github)
